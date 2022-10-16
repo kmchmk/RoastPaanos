@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/RoastPaanos/static/css/main.9144b3ff.css",
-    "main.js": "/RoastPaanos/static/js/main.a8f825ca.js",
+    "main.js": "/RoastPaanos/static/js/main.da2e2181.js",
     "static/media/dish.jpeg": "/RoastPaanos/static/media/dish.171e96913fa4a1eb5bbb.jpeg",
     "index.html": "/RoastPaanos/index.html",
     "main.9144b3ff.css.map": "/RoastPaanos/static/css/main.9144b3ff.css.map",
-    "main.a8f825ca.js.map": "/RoastPaanos/static/js/main.a8f825ca.js.map"
+    "main.da2e2181.js.map": "/RoastPaanos/static/js/main.da2e2181.js.map"
   },
   "entrypoints": [
     "static/css/main.9144b3ff.css",
-    "static/js/main.a8f825ca.js"
+    "static/js/main.da2e2181.js"
   ]
 }
